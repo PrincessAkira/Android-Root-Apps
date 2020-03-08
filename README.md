@@ -11,9 +11,9 @@
 	- [Audio](#Audio)
 	- [Tools](#Tools)
   - [Backups](#backups)
-  - [Different OS] (#OtherOS)
-  - [Root Browser] (#Explorer)
-  - [File Explorer] (#FExplorer)
+  - [Different OS](#OtherOS)
+  - [Root Browser](#Explorer)
+  - [File Explorer](#FExplorer)
   ---
   
   ## Guide
