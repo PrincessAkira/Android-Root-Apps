@@ -90,7 +90,7 @@ I'm not responsible for any damage done to your device by using any of these lin
 
 * [Pixelarity](https://github.com/Magisk-Modules-Repo/PIXELARITY) - Contains pixel exclusives, fix and tweaks to boost user experience on devices running Android 9/10
 
-* [Resurrection Remix Orea Boot](https://github.com/Magisk-Modules-Repo/RR-O-boot) - Adds bootanimation of RR6 to any phone
+* [Resurrection Remix Oreo Boot](https://github.com/Magisk-Modules-Repo/RR-O-boot) - Adds bootanimation of RR6 to any phone
 
 * [Foxy Boot](https://github.com/Magisk-Modules-Repo/foxy-boot) - Android boot animation replacement which displays the kernel ring buffer or Android log
 
@@ -104,7 +104,7 @@ I'm not responsible for any damage done to your device by using any of these lin
 
 ### Tools
 
-* [Root Essentials](https://play.google.com/store/apps/details?id=com.superthomaslab.rootessentials&hl=de) - Useful tools for any rooted phone
+* [Root Essentials](https://play.google.com/store/apps/details?id=com.superthomaslab.rootessentials&hl=de) - Useful tools for any rooted phone like a File Explorer
 
 * [BuildProp Editor](https://play.google.com/store/apps/details?id=com.jrummy.apps.build.prop.editor) - Edit your build.prop file
 
