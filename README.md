@@ -20,7 +20,7 @@
   
   * [Magisk](https://www.xda-developers.com/how-to-install-magisk/) - XDA Thread with a Tutorial on how to Install Magisk and TWRP.
   
-  ## Magisk Modules
+  ## Modules
   
   ### Communication
  
