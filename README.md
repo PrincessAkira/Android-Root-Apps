@@ -1,7 +1,7 @@
 # My collection of Android Root Apps
 
   - [Root Guide](#Guide)
-  - [Modules] (#Modules)
+  - [MagiskModules](#Modules)
 	- [Communication](#Communication)
 	- [Connectivity](#Connectivity)
 	- [Customization](#customization)
@@ -22,7 +22,7 @@
   
   ## Modules
   
-  - Modules for Magisk
+
   
   ### Communication
  
