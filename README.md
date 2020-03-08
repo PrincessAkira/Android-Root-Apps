@@ -1,5 +1,6 @@
 # My collection of Android Root Apps / Magisk Modules
 
+  - [Disclaimer](#Disclaimer)
   - [Root Guide](#Guide)
   - [MagiskModules](#Modules)
 	- [Communication](#Communication)
@@ -15,6 +16,11 @@
   - [Root Browser](#Explorer)
   - [File Explorer](#FExplorer)
   ---
+  
+  ## Disclaimer
+  Im not responsible for any damage done to your device by using any of these links, nor are the creators of the Modules/Apps.
+  Please always read the instructions carefully and if your unsure google the modules/apps.
+  
   
   ## Guide
   
