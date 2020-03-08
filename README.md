@@ -65,7 +65,7 @@ I'm not responsible for any damage done to your device by using any of these lin
 
 * [Pixel 2 Colours](https://github.com/Magisk-Modules-Repo/pixel2colours) - This module enables Pixel 2 colours and fixes abf, previews and overexposure on the OnePlus 5/5T
 
-* [System Accent Theme Colors for P](https://github.com/Magisk-Modules-Repo/sap#system-accent-theme-colors-for-p) - dds some system accent theme colors to your android P custom rom
+* [System Accent Theme Colors for P](https://github.com/Magisk-Modules-Repo/sap#system-accent-theme-colors-for-p) - adds some system accent theme colors to your android P custom rom
 
 * [Pix3lify](https://github.com/Magisk-Modules-Repo/Pix3lify) - Gte Pixel features for non Pixel Phones
 
