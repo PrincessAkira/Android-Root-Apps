@@ -17,27 +17,26 @@
   - [File Explorer](#FExplorer)
   ---
 
-  ## Disclaimer
-  I'm not responsible for any damage done to your device by using any of these links, nor are the creators of the Modules/Apps.
-  Please always read the instructions carefully and if your unsure google the modules/apps.
+## Disclaimer
+I'm not responsible for any damage done to your device by using any of these links, nor are the creators of the Modules/Apps.Please always read the instructions carefully and if your unsure google the modules/apps.
 
 
-  ## Guide
+## Guide
 
 * [Magisk](https://www.xda-developers.com/how-to-install-magisk/) - XDA Thread with a Tutorial on how to Install Magisk and TWRP.
 
-  ## Modules
+## Modules
 
 
 
-  ### Communication
+### Communication
 
 * [Chinese Sim Support](https://github.com/Magisk-Modules-Repo/chinese_sim_supporter) - Enables support for Chinese Sim Cards.
 
 * [Call Recorder](https://github.com/Magisk-Modules-Repo/callrecorder-skvalex) - App to record phone calls
 
 
-  ### Connectivity
+### Connectivity
 
 * [Bluetooth Library Patcher](https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher) - Avoid loss of Bluethooth after reboot
 
@@ -59,7 +58,7 @@
 
 * [PS4 Remote Play Enabler](https://github.com/Magisk-Modules-Repo/PS4RE) - Enables PS4 Remote Play for non-Sony Devices
 
-  ### Customization
+### Customization
 
 * [Nokia Extensions](https://github.com/Magisk-Modules-Repo/nokia-extensions) - Get more features on your Nokia
 
@@ -81,7 +80,7 @@
 
 * [Single User Mod](https://github.com/Magisk-Modules-Repo/single-user) - It simply disables the multiple users feature and the guest account
 
-  ### Boot Logos
+### Boot Logos
 
 * [Razerite](https://github.com/Magisk-Modules-Repo/Razerite) - Give your phone a Razer Touch
 
@@ -95,23 +94,23 @@
 
 * [Foxy Boot](https://github.com/Magisk-Modules-Repo/foxy-boot) - Android boot animation replacement which displays the kernel ring buffer or Android log
 
- ### Fonts
+### Fonts
 
- ### Launcher
+### Launcher
 
 * [QuickStep Switcher](https://github.com/Magisk-Modules-Repo/quickstepswitcher) - Pie recents for any supported Launcher
 
- ### Audio
+### Audio
 
- ### Tools
+### Tools
 
- ### Backups
+### Backups
 
- * [Titanium Backup](https://play.google.com/store/apps/details?id=com.keramidas.TitaniumBackup&hl=de) - root and rootfree backup
+* [Titanium Backup](https://play.google.com/store/apps/details?id=com.keramidas.TitaniumBackup&hl=de) - root and rootfree backup
 
- * []
+* []
 
- ### ROMs
+### ROMs
 
 * [LineageOS](https://lineageos.org/) - a clean Custom Rom
 
