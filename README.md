@@ -7,9 +7,9 @@
 	- [Customization](#customizationM)
 		- Boot Logos
 		- Fonts
-	- [Launcher] (#Launcher)
-	- [Audio] (#AudioModules)
-	- [Tools] (#ToolsModules)
+	- [Launcher](#Launcher)
+	- [Audio](#Audio)
+	- [Tools](#Tools)
   - [Backups](#backups)
   - [Different OS] (#OS)
   - [Root Browser] (#Explorer)
@@ -92,5 +92,3 @@
  ### Launcher
  
  * [QuickStep Switcher](https://github.com/Magisk-Modules-Repo/quickstepswitcher) - Pie recents for any supported Launcher
- 
- ### 
