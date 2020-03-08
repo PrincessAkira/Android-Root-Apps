@@ -5,8 +5,8 @@
 	- [Communication](#Communication)
 	- [Connectivity](#Connectivity)
 	- [Customization](#customizationM)
-		- [Boot Logo] (#BootLogo)
-		- [Fonts] (#Font)
+		- Boot Logos
+		- Fonts
 	- [Launcher] (#Launcher)
 	- [Audio] (#AudioModules)
 	- [Tools] (#ToolsModules)
@@ -75,7 +75,7 @@
  
  * [Single User Mod](https://github.com/Magisk-Modules-Repo/single-user) - It simply disables the multiple users feature and the guest account
   
-  ### BootLogo
+  ### Boot Logos
   
   * [Razerite](https://github.com/Magisk-Modules-Repo/Razerite) - Give your phone a Razer Touch
   
