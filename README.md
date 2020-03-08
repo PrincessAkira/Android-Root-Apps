@@ -2,9 +2,9 @@
 
   - [Disclaimer](#Disclaimer)
   - [Root Guide](#Guide)
-  - [MagiskModules](#Modules)
 	- [Communication](#Communication)
 	- [Connectivity](#Connectivity)
+	- [RootHide](#RootHide)
 	- [Customization](#customizationM)
 		- Boot Logos
 		- Fonts
@@ -29,14 +29,14 @@ I'm not responsible for any damage done to your device by using any of these lin
 
 
 
-### Communication
+## Communication
 
 * [Chinese Sim Support](https://github.com/Magisk-Modules-Repo/chinese_sim_supporter) - Enables support for Chinese Sim Cards.
 
 * [Call Recorder](https://github.com/Magisk-Modules-Repo/callrecorder-skvalex) - App to record phone calls
 
 
-### Connectivity
+## Connectivity
 
 * [Bluetooth Library Patcher](https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher) - Avoid loss of Bluethooth after reboot
 
@@ -58,7 +58,11 @@ I'm not responsible for any damage done to your device by using any of these lin
 
 * [PS4 Remote Play Enabler](https://github.com/Magisk-Modules-Repo/PS4RE) - Enables PS4 Remote Play for non-Sony Devices
 
-### Customization
+## RootHide
+
+* [MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf) - Changes prop values to make you pass SafetyNet by Google
+
+## Customization
 
 * [Nokia Extensions](https://github.com/Magisk-Modules-Repo/nokia-extensions) - Get more features on your Nokia
 
@@ -80,7 +84,7 @@ I'm not responsible for any damage done to your device by using any of these lin
 
 * [Single User Mod](https://github.com/Magisk-Modules-Repo/single-user) - It simply disables the multiple users feature and the guest account
 
-### Boot Logos
+## Boot Logos
 
 * [Razerite](https://github.com/Magisk-Modules-Repo/Razerite) - Give your phone a Razer Touch
 
@@ -94,31 +98,37 @@ I'm not responsible for any damage done to your device by using any of these lin
 
 * [Foxy Boot](https://github.com/Magisk-Modules-Repo/foxy-boot) - Android boot animation replacement which displays the kernel ring buffer or Android log
 
-### Fonts
+## Fonts
 
-### Launcher
+* [Font Changer](https://github.com/Magisk-Modules-Repo/Fontchanger) - provides over 200 fonts to choose and apply
+
+## Launcher
 
 * [QuickStep Switcher](https://github.com/Magisk-Modules-Repo/quickstepswitcher) - Pie recents for any supported Launcher
 
-### Audio
+## Audio
 
-### Tools
+* []
+
+## Tools
 
 * [Root Essentials](https://play.google.com/store/apps/details?id=com.superthomaslab.rootessentials&hl=de) - Useful tools for any rooted phone like a File Explorer
 
 * [BuildProp Editor](https://play.google.com/store/apps/details?id=com.jrummy.apps.build.prop.editor) - Edit your build.prop file
 
+* [AdAway](https://adaway.org/) - AdAway is an open source adblocker. I recommend adding [this](https://block.energized.pro/bluGo/formats/hosts) as your hostlist
+
 * [EDXposed](https://github.com/ElderDrivers/EdXposed) - Makes Xposed work in Android 8 to 10 *Note that Xposed has always given a big security hole into your System*
 
 * [Magisk Manager]((https://magiskmanager.com/#How_to_Download_Magisk_Manager_Latest_Version_751_For_Android_2020_Method_1)) - Used for downloading Modules and to update Magisk
 
-### Backups
+## Backups
 
 * [Titanium Backup](https://play.google.com/store/apps/details?id=com.keramidas.TitaniumBackup&hl=de) - root and rootfree backup
 
 * []
 
-### ROMs
+## ROMs
 
 * [LineageOS](https://lineageos.org/) - a clean Custom Rom
 
