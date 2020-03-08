@@ -11,7 +11,7 @@
 	- [Audio](#Audio)
 	- [Tools](#Tools)
   - [Backups](#backups)
-  - [Different OS](#OtherOS)
+  - [Other ROMS](#ROMS)
   - [Root Browser](#Explorer)
   - [File Explorer](#FExplorer)
   ---
@@ -102,7 +102,7 @@
     
  ### Backups
  
- ### Other OS
+ ### OtherROMS
  
  * [LineageOS](https://lineageos.org/) - a clean Custom Rom
  
