@@ -28,4 +28,3 @@
   
   * [Call Recorder](https://github.com/Magisk-Modules-Repo/callrecorder-skvalex) - App to record phone calls
   
-  * 
