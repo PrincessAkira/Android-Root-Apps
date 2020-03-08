@@ -1,21 +1,22 @@
 # My collection of Android Root Apps / Magisk Modules
 
-  - [Disclaimer](#Disclaimer)
-  - [Root Guide](#Guide)
-	- [Communication](#Communication)
-	- [Connectivity](#Connectivity)
-	- [RootHide](#RootHide)
-	- [Customization](#customizationM)
-		- Boot Logos
-		- Fonts
-	- [Launcher](#Launcher)
-	- [Audio](#Audio)
-	- [Tools](#Tools)
-  - [Backups](#backups)
-  - [ROMs](#ROMs)
-  - [Root Browser](#Explorer)
-  - [File Explorer](#FExplorer)
-  ---
+* [My collection of Android Root Apps / Magisk Modules](#my-collection-of-android-root-apps--magisk-modules)
+  * [- File Explorer](#ullifile-explorerliul)
+  * [Disclaimer](#disclaimer)
+  * [Guide](#guide)
+  * [Modules](#modules)
+  * [Communication](#communication)
+  * [Connectivity](#connectivity)
+  * [RootHide](#roothide)
+  * [Customization](#customization)
+  * [Boot Logos](#boot-logos)
+  * [Fonts](#fonts)
+  * [Launcher](#launcher)
+  * [Audio](#audio)
+  * [Tools](#tools)
+  * [Backups](#backups)
+  * [ROMs](#roms)
+---
 
 ## Disclaimer
 I'm not responsible for any damage done to your device by using any of these links, nor are the creators of the Modules/Apps.Please always read the instructions carefully and if your unsure google the modules/apps.
