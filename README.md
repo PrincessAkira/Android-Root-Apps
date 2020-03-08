@@ -1,10 +1,5 @@
 # My collection of Android Root Apps
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)]()
-[![Discord](https://img.shields.io/discord/418256415874875402.svg?colorA=7289da&colorB=99aab5&label=Discord&logo=discord&maxAge=60)](https://discord.gg/P95nD69)
-
-
-
   - [Root Guide](#Guide)
   - [Magisk Modules] (#Modules)
 		- [Communication](#communication)
