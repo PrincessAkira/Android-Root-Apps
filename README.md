@@ -79,7 +79,7 @@
   
   * [Razerite](https://github.com/Magisk-Modules-Repo/Razerite) - Give your phone a Razer Touch
   
-  * [Nexus Media](https://github.com/Magisk-Modules-Repo/nexusmedia] - Replaces sounds/bootanimation with Nexus ones
+  * [Nexus Media](https://github.com/Magisk-Modules-Repo/nexusmedia) - Replaces sounds/bootanimation with Nexus ones
   
   * [WDAnimationcxair](https://github.com/Magisk-Modules-Repo/WDAnimationcxair) - Changes Boot Animation on Supported Phones
   
