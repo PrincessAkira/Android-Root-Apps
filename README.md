@@ -104,6 +104,14 @@ I'm not responsible for any damage done to your device by using any of these lin
 
 ### Tools
 
+* [Root Essentials](https://play.google.com/store/apps/details?id=com.superthomaslab.rootessentials&hl=de) - Useful tools for any rooted phone
+
+* [BuildProp Editor](https://play.google.com/store/apps/details?id=com.jrummy.apps.build.prop.editor) - Edit your build.prop file
+
+* [EDXposed](https://github.com/ElderDrivers/EdXposed) - Makes Xposed work in Android 8 to 10 *Note that Xposed has always given a big security hole into your System*
+
+* [Magisk Manager]((https://magiskmanager.com/#How_to_Download_Magisk_Manager_Latest_Version_751_For_Android_2020_Method_1)) - Used for downloading Modules and to update Magisk
+
 ### Backups
 
 * [Titanium Backup](https://play.google.com/store/apps/details?id=com.keramidas.TitaniumBackup&hl=de) - root and rootfree backup
