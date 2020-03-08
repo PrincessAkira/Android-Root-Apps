@@ -89,6 +89,25 @@
 
 * [Foxy Boot](https://github.com/Magisk-Modules-Repo/foxy-boot) - Android boot animation replacement which displays the kernel ring buffer or Android log
 
+ ### Fonts
+
  ### Launcher
  
  * [QuickStep Switcher](https://github.com/Magisk-Modules-Repo/quickstepswitcher) - Pie recents for any supported Launcher
+ 
+ ### Audio
+ 
+ 
+ ### Tools
+    
+ ### Backups
+ 
+ ### Other OS
+ 
+ * [LineageOS](https://lineageos.org/) - a clean Custom Rom
+ 
+ * [CarbonROM](https://carbonrom.org/) - supports much phones
+ 
+ * [DirtyUnicorns](https://dirtyunicorns.com/) - only supports 8 phones at the moment
+ 
+ * [Resurrection Remix OS](https://www.resurrectionremix.com/) - good for older phones
