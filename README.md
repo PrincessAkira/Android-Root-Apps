@@ -1,16 +1,13 @@
 # My collection of Android Root Apps / Magisk Modules
 
-* [My collection of Android Root Apps / Magisk Modules](#my-collection-of-android-root-apps--magisk-modules)
-  * [- File Explorer](#ullifile-explorerliul)
   * [Disclaimer](#disclaimer)
   * [Guide](#guide)
-  * [Modules](#modules)
   * [Communication](#communication)
   * [Connectivity](#connectivity)
   * [RootHide](#roothide)
   * [Customization](#customization)
-  * [Boot Logos](#boot-logos)
-  * [Fonts](#fonts)
+    * [Boot Logos](#boot-logos)
+    * [Fonts](#fonts)
   * [Launcher](#launcher)
   * [Audio](#audio)
   * [Tools](#tools)
@@ -25,9 +22,6 @@ I'm not responsible for any damage done to your device by using any of these lin
 ## Guide
 
 * [Magisk](https://www.xda-developers.com/how-to-install-magisk/) - XDA Thread with a Tutorial on how to Install Magisk and TWRP.
-
-## Modules
-
 
 
 ## Communication
