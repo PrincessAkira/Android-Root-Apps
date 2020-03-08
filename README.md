@@ -1,4 +1,4 @@
-# My collection of Android Root Apps / Magisk Modules Just a test 123
+# My collection of Android Root Apps / Magisk Modules
 
   - [Disclaimer](#Disclaimer)
   - [Root Guide](#Guide)
