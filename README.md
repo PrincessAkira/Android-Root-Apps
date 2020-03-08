@@ -1,4 +1,4 @@
-# My collection of Android Root Apps
+# My collection of Android Root Apps / Magisk Modules
 
   - [Root Guide](#Guide)
   - [MagiskModules](#Modules)
