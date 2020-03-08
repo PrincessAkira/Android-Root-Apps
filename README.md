@@ -2,14 +2,14 @@
 
   - [Root Guide](#Guide)
   - [Magisk Modules] (#Modules)
-		- [Communication](#communication)
-		- [Connectivity](#connectivity)
-		- [Customization](#customization)
-		- [Boot Logo] (#BootLogo)
-		- [Fonts] (#Fonts)
-		- [Launcher] (#Launcher)
-		- [Audio] (#Audio)
-		- [Tools] (#Tools)
+	- [Communication](#Communication)
+	- [Connectivity](#Connectivity)
+	- [Customization](#customization)
+	- [Boot Logo] (#BootLogo)
+	- [Fonts] (#Fonts)
+	- [Launcher] (#Launcher)
+	- [Audio] (#Audio)
+	- [Tools] (#Tools)
   - [Backups](#backups)
   - [Different OS] (#OS)
   - [Root Browser] (#Explorer)
@@ -22,14 +22,14 @@
   
   ## Magisk Modules
   
-  ### communication
+  ### Communication
  
   * [Chinese Sim Support](https://github.com/Magisk-Modules-Repo/chinese_sim_supporter) - Enables support for Chinese Sim Cards. 
   
   * [Call Recorder](https://github.com/Magisk-Modules-Repo/callrecorder-skvalex) - App to record phone calls
   
   
-  ### connectivity
+  ### Connectivity
   
   * [Bluetooth Library Patcher](https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher) - Avoid loss of Bluethooth after reboot
   
