@@ -5,8 +5,8 @@
 	- [Communication](#Communication)
 	- [Connectivity](#Connectivity)
 	- [Customization](#customizationM)
-		- Boot Logos
-		- Fonts
+		- Boot Logos(#Boot Logos)
+		- Fonts(#Fonts)
 	- [Launcher](#Launcher)
 	- [Audio](#Audio)
 	- [Tools](#Tools)
