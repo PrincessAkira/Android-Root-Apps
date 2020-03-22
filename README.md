@@ -1,5 +1,9 @@
 # My collection of Android Root Apps / Magisk Modules
 
+[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fprincessakari_)](https://twitter.com/princessakari_)
+[![Discord](https://img.shields.io/discord/622504866132000768?logo=Discord)](https://discord.gg/8AyNesa)
+
+
   * [Disclaimer](#disclaimer)
   * [Guide](#guide)
   * [Communication](#communication)
